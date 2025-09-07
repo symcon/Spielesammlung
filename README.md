@@ -7,8 +7,8 @@
 
 Folgende Module beinhaltet das Spielesammlung Repository:
 
-- __SchereSteinPapier__ ([Dokumentation](https://www.symcon.de/de/service/dokumentation/modulreferenz/spielesammlung/schere-stein-papier))  
+- __SchereSteinPapier__ ([Dokumentation](https://www.symcon.de/de/service/dokumentation/modulreferenz/spielesammlung/schere-stein-papier/))  
 	Eine Möglichkeit Schere Stein Papier im WebFront zu spielen.
 
-- __Zahlenraten__ ([Dokumentation](https://www.symcon.de/de/service/dokumentation/modulreferenz/spielesammlung/zahlenraten))  
+- __Zahlenraten__ ([Dokumentation](https://www.symcon.de/de/service/dokumentation/modulreferenz/spielesammlung/zahlenraten/))  
     Ein kleines Spiel, bei dem eine zufällige Zahl erraten werden muss.
